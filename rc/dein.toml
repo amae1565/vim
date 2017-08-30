@@ -1,1 +1,9 @@
 [[plugins]]
+repos = 'Shougo/dein.vim'
+
+[[plugins]]
+repos = 'scrooloose/nerdtree'
+
+[[plugins]]
+repo = 'cespare/vim-toml'
+on_ft = 'toml'
